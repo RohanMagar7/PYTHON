@@ -1,6 +1,6 @@
 # Python Learning Resources and Guide
 
-Welcome to the Python Learning Guide! This README will help you get started with Python programming, covering essential topics and providing guidance on practical applications. Whether you're a beginner or looking to advance your skills, this guide is for you.
+Welcome to the Python Learning Guide! This repo will help you get started with Python programming, covering essential topics and providing guidance on practical applications. Whether you're a beginner or looking to advance your skills, this guide is for you.
 
 ---
 
